@@ -54,6 +54,7 @@ header{
 }
 #img{
 	text-align: left;
+	align-content:left;
 	
 }
 #popular-goods{
@@ -127,20 +128,24 @@ header{
 #suscribe p{
 	color:#fff;
 	font-family: 'Catamaran', sans-serif;
-	text-align: right;
+	text-align: left;
 
 }
 #suscribe h5{
 	font-family: 'Heebo', sans-serif;
 	color:#282932;
-	text-align: right;
+	text-align: left;
 	font-weight: bold;
-	margin-top:50px;}
-#suscribe .input-group{
+	padding-bottom: 30px;
+}
+#box{
+	text-align: right;
 	border-radius:20px;
 	border: medium;
+	align-content:right;
 }
 #suscribe .btn{
+	text-align: right;
 	border-radius:20px;
 	background-color: #282932;
 	color:#fff;
